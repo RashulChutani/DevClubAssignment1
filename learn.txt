@@ -1,0 +1,9 @@
+DevClub......Readme file
+DevClub ,founded in IIT Delhi is an amazing organisation working to teach and develop some of most important
+products that make our lives easier.
+Some of their products include
+1. Citadel
+2. Leaning Assignments
+3. Grades Portal
+4. GSoC preparation
+Overall an amazing club...;)  
